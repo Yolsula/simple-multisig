@@ -47,3 +47,6 @@ To run the tests:
 ## Testing signatures in a browser
 
 If you have the [MetaMask](https://metamask.io) browser extension you can open the page `browsertest/index.html` in your browser and test signing data. The signature will be returned in a `(r,s,v)` format which can be plugged into the `execute` function.
+
+
+Alex
